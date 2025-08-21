@@ -1,1 +1,4 @@
 pyTelegramBotAPI==4.21.0
+aiogram==3.4.1
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
