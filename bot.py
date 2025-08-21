@@ -8,7 +8,7 @@ import telebot
 # =========================
 # СЕКРЕТЫ И НАСТРОЙКИ
 # =========================
-TOKEN = os.getenv("TOKEN", "YOUR_TELEGRAM_BOT_TOKEN")
+TOKEN = os.getenv("TOKEN", "8435949737:AAFOoiJe1pbduW0fQK3S92q04XbKFqCXWD8")
 CHANNEL_ID = os.getenv("CHANNEL_ID", "@zalesskayarepublic")
 
 if not TOKEN or not CHANNEL_ID or "YOUR_TELEGRAM_BOT_TOKEN" in TOKEN:
